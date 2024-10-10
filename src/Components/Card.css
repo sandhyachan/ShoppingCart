@@ -1,0 +1,13 @@
+.card-img-top{
+    height: 60%;
+    width: auto;
+}
+.card-body{
+    position: relative;
+}
+.btn-addtocart{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
