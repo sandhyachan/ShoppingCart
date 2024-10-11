@@ -5,7 +5,7 @@
 A simple e-commerce application for an art shop, built using React and Bootstrap.
 
 ## Preview
-![Preview Image](image link)
+![](image link)
 
 ## Features
 ### Displays a list of products with their images, titles, and prices
