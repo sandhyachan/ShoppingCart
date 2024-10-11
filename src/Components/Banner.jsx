@@ -1,4 +1,4 @@
-import artshopHeader from '../assets/artshopheader.png';
+import artshopHeader from '../Components/Images/artshopHeader.png';
 
 export default function Artshopbanner() {
     return (
