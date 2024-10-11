@@ -5,7 +5,7 @@
 A simple e-commerce application for an art shop, built using React and Bootstrap.
 
 ## Preview
-![](image link)
+![HC Art Shop Preview](https://hc-art-shop.vercel.app)
 
 ## Features
 ### Displays a list of products with their images, titles, and prices
