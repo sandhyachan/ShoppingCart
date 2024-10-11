@@ -2,11 +2,15 @@
 ==========================
 
 ## Description
-This is a React application that displays a list of products and allows users to add them to a cart. The application uses Bootstrap for styling and layout.
+A simple e-commerce application for an art shop, built using React and Bootstrap.
+
+## Preview
+![Preview Image](image link)
 
 ## Features
-### Display a list of products with their images, titles, and prices
-### Add products to cart and display the total price and number of items in the cart
+### Displays a list of products with their images, titles, and prices
+### Adds products to cart and display the total price and number of items in the cart
+### Responsive design using bootstrap
 
 ## How to Run
 ### Step 1: Clone the repository
