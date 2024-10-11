@@ -2,7 +2,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import products from './CardData';
 import './Card.css';
-import Artshopbanner from './Banner';
+// import Artshopbanner from './Banner';
 import { useState } from 'react';
 
 export default function ProductCard() {
@@ -57,7 +57,7 @@ export default function ProductCard() {
           </form>
         </div>
       </nav>
-      <Artshopbanner />
+      <img src="https://static.vecteezy.com/system/resources/previews/002/006/605/non_2x/paper-art-shopping-online-on-smartphone-and-new-buy-sale-promotion-pink-backgroud-for-banner-market-ecommerce-free-vector.jpg" alt="Art Shop Header" style={{ maxWidth: '100%', height: 'auto' }}/>
       <div className="d-flex flex-wrap justify-content-center">
         {products.map((product, index) => (
           <div className="card p-2 m-3" key={index} style={{ width: '16rem' }}>
