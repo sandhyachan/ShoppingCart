@@ -1,3 +1,4 @@
+// List of products details
 const products = [
     {
         image: "https://artikate.com/cdn/shop/products/711fuvYMHL._SL1301_3e1f1080-3120-4150-a417-300297ed0171.jpg?v=1665528696",
